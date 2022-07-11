@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 1 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/14487?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" group-title="Undefined",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
