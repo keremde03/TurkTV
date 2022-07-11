@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 1 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/14487?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
